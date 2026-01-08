@@ -10,6 +10,11 @@ export default function Home() {
         </div>
         <div className="about-container">
             <h2 className="about-title">things i can actually do</h2>
+            <ul className="about-list">
+                <li>i can play pool online</li>
+                <li>i have eat a whole pizza by myself</li>
+                <li>i can do much</li>
+            </ul>
         </div> 
     </>
   )
